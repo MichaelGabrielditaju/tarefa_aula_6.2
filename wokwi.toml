@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/tarefa_aula_6.2.uf2'
+elf = 'build/tarefa_aula_6.2.elf'
