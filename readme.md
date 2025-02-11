@@ -35,4 +35,4 @@ O código atende de forma eficiente aos requisitos estabelecidos. A configuraç�
 As variações de intensidade do LED RGB, além de serem visualmente interessantes, podem ser utilizadas para indicar estados diferentes do sistema ou para dar feedback ao usuário.
 
 ## Link Para o Vídeo no YouTube:
-Link:
+Link: https://youtu.be/koPOoyI0szo?si=xewYS8u4OIIxQxZ8
